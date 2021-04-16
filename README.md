@@ -1,2 +1,2 @@
 # TicTacToe21
-Example TIcTacToe Project
+Example TicTacToe Project
